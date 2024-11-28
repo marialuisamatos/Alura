@@ -246,5 +246,13 @@ let dados = [
         pais: "(Japão)",
         diretor: "Hayao Miyazaki",
         categoria: "Aventura, Animação"
+    },
+    {
+        titulo: "A Garota do século 20",
+        descricao: "Em 1999, uma adolescente monitora atentamente o garoto pelo qual a melhor amiga está apaixonada. Tudo vai bem até que um outro amor começa a dar as caras.",
+        data: "06.10.2022",
+        pais: "(Coreia do Sul)",
+        diretor: "Bang Woo-ri",
+        categoria: "Cómedia, Romance, Drama"
     }
 ];
