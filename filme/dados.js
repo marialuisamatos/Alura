@@ -160,11 +160,91 @@ let dados = [
         categoria: "Ação"
     },
     {
-        titulo: "Spirited Away",
+        titulo: "A viagem de Chihiro",
         descricao: "Chihiro, uma menina de 10 anos, é levada para um mundo mágico onde seu pai e mãe são transformados em porcos. Ela precisa trabalhar em uma casa de banhos para tentar salvá-los e escapar desse mundo.",
         data: "20.07.2001",
         pais: "(Japão)",
         diretor: "Hayao Miyazaki",
         categoria: "Animação/Aventura"
+    },
+    {
+        titulo: "Coraline e o Mundo Secreto",
+        descricao: "Enquanto explora sua nova casa à noite, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Todos têm botões no lugar dos olhos, os pais são carinhosos e os sonhos de Coraline viram realidade por lá. Ela se encanta com essa descoberta, mas logo percebe que segredos estranhos estão em ação: uma outra mãe e o resto de sua família tentam mantê-la eternamente nesse mundo paralelo.",
+        data: "13.02.2009",
+        pais: "(Reino Unido)",
+        diretor: " Henry Selick",
+        categoria: "Fantasia, Horror"  
+    },
+    {
+        titulo: "Ai que Vida!",
+        descricao: "Cleonice decide se candidatar à prefeitura enquanto seu filho, Valdir, cumpre pena em uma instituição filantrópica e acaba se apaixonando por moça que está para casar. Na fictícia Poço Fundo, política e afeto se misturam em saga contra a corrupção.",
+        data: "14.09.2008",
+        pais: "(Brasil)",
+        diretor: "Cícero Filho",
+        categoria: "Comédia, Romance, Drama"
+    },
+    {
+        titulo: "BTS Bring Of The Seol: The Movie",
+        descricao: "A produção sul-coreana exibe ainda performances ao vivo do grupo nos palcos e, no final, mostra os integrantes em um telhado de Paris, durante uma conversa aberta sobre a turnê. Considerado um enorme sucesso de bilheteria, o longa teve um desempenho positivo.",
+        data: "07.09.2019",
+        pais: "(Coreia do Sul)",
+        diretor: "Cícero Filho",
+        categoria: "Comédia, "
+    },
+    {
+        titulo: "BTS Break The Silencce: The Movie",
+        descricao: "Uma visita ao mundo do BTS fora do palco, com conversas intimistas do grupo acompanhadas de apresentações espetaculares nos shows da turnê, esse é um evento cinematográfico imperdível. A jornada do BTS continua!",
+        data: " ",
+        pais: "(Brasil)",
+        diretor: "Coreia do Sul",
+        categoria: "Comédia, "
+    },
+    {
+        titulo: "Robô Selvagem",
+        descricao: "The Wild Robot é um filme de animação americano de drama e ficção científica baseado na série de livros de mesmo nome de Peter Brown, produzido pela DreamWorks Animation e distribuído pela Universal Pictures.",
+        data: "10.10.2024",
+        pais: "(Americano)",
+        diretor: " Chris Sanders",
+        categoria: "Comédia, Animação"
+    },
+    {
+        titulo: "Hotel Transilvânia 3: Férias Monstruosas",
+        descricao: "A família faz um cruzeiro para que Drácula possa sair de férias e abandonar por uns dias seu trabalho no Hotel Transilvânia. Tudo vai bem até que Mavis percebe que Drácula se apaixonou por uma humana que pode colocá-los em perigo.",
+        data: "12.06.2018",
+        pais: "(Estadunidense)",
+        diretor: "Genndy Tartakovsky",
+        categoria: "Comédia, Romance, Animação"
+    },
+    {
+        titulo: "O Reino dos Gatos",
+        descricao: "Haru salva um gato que estava prestes a ser atropelado por um caminhão e descobre que ele é, na verdade, um príncipe. Por gratidão o Rei dos Gatos a pede em casamento, e a menina é levada para o Reino dos Gatos. Agora, ela quer sua liberdade.",
+        data: "13.02.2004",
+        pais: "(Japão)",
+        diretor: "Hiroyuki Morita",
+        categoria: "Comédia, Romance, Animação"
+    },
+    {
+        titulo: "O Castelo no Céu",
+        descricao: "Sheeta, uma jovem órfã que possui um colar misterioso se une ao mineiro Pazu para procurar uma lendária cidade flutuante. Mas a dupla é perseguida por gananciosos piratas aéreos.",
+        data: " 14.07.1989",
+        pais: "(Japão)",
+        diretor: "Hayao Miyazaki",
+        categoria: "Comédia, Romance, Animação"
+    },
+    {
+        titulo: "O Castelo Animado",
+        descricao: "Uma bruxa lança uma terrível maldição sobre a jovem Sophie transformando-a em uma velha. Desesperada, ela embarca em uma odisseia em busca do mago Howl, um misterioso feiticeiro que pode ajudá-la a reverter o feitiço.",
+        data: "15.07.2005",
+        pais: "(Japão)",
+        diretor: "Hayao Miyazaki",
+        categoria: "Comédia, Romance, Animação"
+    },
+    {
+        titulo: "O Menino e a Garça",
+        descricao: "Mahito, um menino de 12 anos, luta para se estabelecer em uma nova cidade após a morte de sua mãe. Quando uma garça falante conta para Mahito que sua mãe ainda está viva, ele entra em uma torre abandonada em busca dela, o que o leva para outro mundo.",
+        data: " 14.07.2023",
+        pais: "(Japão)",
+        diretor: "Hayao Miyazaki",
+        categoria: "Aventura, Animação"
     }
 ];
