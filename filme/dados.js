@@ -84,7 +84,7 @@ let dados = [
         descricao: "DUma poderosa feiticeira que muda de forma coloca os olhos no Cajado da Sabedoria. Po de repente percebe que precisa de ajuda e logo descobre que heróis podem ser encontrados nos lugares mais inesperados.",
         data: " 07.03.2024",
         pais: "(EUA)",
-        diretor: " Mike Mitchell",
+        diretor: "Mike Mitchell",
         categoria: "Comédia, Aventura"
     },
     {
@@ -172,7 +172,7 @@ let dados = [
         descricao: "Enquanto explora sua nova casa à noite, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Todos têm botões no lugar dos olhos, os pais são carinhosos e os sonhos de Coraline viram realidade por lá. Ela se encanta com essa descoberta, mas logo percebe que segredos estranhos estão em ação: uma outra mãe e o resto de sua família tentam mantê-la eternamente nesse mundo paralelo.",
         data: "13.02.2009",
         pais: "(Reino Unido)",
-        diretor: " Henry Selick",
+        diretor: "Henry Selick",
         categoria: "Fantasia, Horror"  
     },
     {
@@ -226,7 +226,7 @@ let dados = [
     {
         titulo: "O Castelo no Céu",
         descricao: "Sheeta, uma jovem órfã que possui um colar misterioso se une ao mineiro Pazu para procurar uma lendária cidade flutuante. Mas a dupla é perseguida por gananciosos piratas aéreos.",
-        data: " 14.07.1989",
+        data: "14.07.1989",
         pais: "(Japão)",
         diretor: "Hayao Miyazaki",
         categoria: "Comédia, Romance, Animação"
@@ -242,13 +242,13 @@ let dados = [
     {
         titulo: "O Menino e a Garça",
         descricao: "Mahito, um menino de 12 anos, luta para se estabelecer em uma nova cidade após a morte de sua mãe. Quando uma garça falante conta para Mahito que sua mãe ainda está viva, ele entra em uma torre abandonada em busca dela, o que o leva para outro mundo.",
-        data: " 14.07.2023",
+        data: "14.07.2023",
         pais: "(Japão)",
         diretor: "Hayao Miyazaki",
         categoria: "Aventura, Animação"
     },
     {
-        titulo: "A Garota do século 20",
+        titulo: "A Garota do Século 20",
         descricao: "Em 1999, uma adolescente monitora atentamente o garoto pelo qual a melhor amiga está apaixonada. Tudo vai bem até que um outro amor começa a dar as caras.",
         data: "06.10.2022",
         pais: "(Coreia do Sul)",
