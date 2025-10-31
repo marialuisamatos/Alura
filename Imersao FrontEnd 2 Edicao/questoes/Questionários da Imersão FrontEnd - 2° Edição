@@ -1,0 +1,107 @@
+ALURA - IMERSÃO DEV FRONT-END 2°EDIÇÃO
+LURI-
+
+	QUESTIONÁRIO 1 DA AULA 1-
+	
+Claro! Aqui estão algumas perguntas de múltipla escolha para testar seu conhecimento sobre os conceitos abordados na aula:
+Qual é a função principal do HTML em uma página web?a) Estilizar a páginab) Estruturar o conteúdoc) Adicionar interatividaded) Criar animações  
+O que o CSS faz em um projeto web?a) Cria a estrutura da páginab) Adiciona estilo e formataçãoc) Executa scripts e lógicad) Faz requisições a servidores  
+Qual é a função do JavaScript em uma página web?a) Estruturar o conteúdob) Adicionar estiloc) Tornar a página interativad) Criar imagens  
+O que a tag <nav> representa no HTML?a) Um parágrafob) Uma seção de navegaçãoc) Um cabeçalhod) Um rodapé  
+O que é um "reset CSS"?a) Um arquivo que adiciona estilos padrãob) Um arquivo que remove estilos padrão do navegadorc) Um comando para reiniciar o navegadord) Um estilo específico para botões  
+Como você pode adicionar um ícone de uma biblioteca como o Font Awesome em seu projeto?a) Baixando o ícone e colocando na pasta do projetob) Importando a CDN no HTMLc) Usando apenas CSSd) Não é possível adicionar ícones  
+O que faz a propriedade position: fixed em CSS?a) Faz o elemento se mover com a rolagem da páginab) Mantém o elemento em uma posição fixa na telac) Alinha o elemento ao centro da páginad) Remove o elemento da página
+
+Espero que essas perguntas ajudem a reforçar seu aprendizado! Se precisar de mais alguma coisa, é só avisar.
+
+   RESPOSTAS:
+   
+1. B) Estruturar o conteúdo
+2. B) Adiciona estilo e formatação
+3. C) Tornar a página interativa
+4. B) Uma seção de navegação
+5. B) Um arquivo que remove estilos padrão do navegador
+6. B) Importando a CDN no HTML
+7. B) Mantém o elemento em uma posição fixa na tela
+
+	QUESTIONÁRIO 2 DA AULA 2-
+	
+Claro! Aqui estão algumas perguntas de múltipla escolha para testar seu conhecimento sobre a aula "Estilo Avançado e Posicionamento: Transformando Layouts":
+O que é o Flexbox no CSS?a) Uma técnica para criar animações.b) Uma técnica para organizar e alinhar elementos de forma flexível.c) Um tipo de propriedade para cores.d) Um método de otimização de imagens.
+Qual propriedade do Flexbox é usada para alinhar os itens ao longo do eixo principal?a) align-itemsb) justify-contentc) flex-directiond) flex-wrap
+O que significa a propriedade justify-content: space-between?a) Alinha todos os itens no centro.b) Distribui o espaço restante entre os itens, deixando o primeiro e o último item nas extremidades.c) Coloca todos os itens em uma única linha.d) Faz com que os itens se sobreponham.
+Qual é a função da propriedade flex-direction?a) Define a cor de fundo de um elemento.b) Controla a direção em que os itens flexíveis são dispostos.c) Altera o tamanho da fonte de um elemento.d) Define o espaçamento entre os itens.
+O que é a metodologia BEM no CSS?a) Uma forma de otimizar imagens.b) Uma metodologia de organização de CSS que utiliza blocos, elementos e modificadores.c) Um tipo de framework CSS.d) Um método para criar animações em CSS.
+
+Espero que essas perguntas ajudem a reforçar seu aprendizado! Se precisar de mais alguma coisa, é só avisar.
+
+   RESPOSTAS:
+
+1. B) Uma técnica para organizar e alinhar elementos de forma flexível.
+2. B) justify-content
+3. B) Distribui o espaço restante entre os itens, deixando o primeiro e o último item nas extremidades.
+4. B) Controla a direção em que os itens flexíveis são dispostos.
+5. B) Uma metodologia de organização de CSS que utiliza blocos, elementos e modificadores.
+
+	QUESTIONÁRIO 3 DA AULA 3-
+
+Claro! Aqui estão algumas perguntas de múltipla escolha para testar seu conhecimento sobre a aula:
+
+O que são variáveis CSS e qual é sua principal vantagem?
+a) São usadas apenas em pré-processadores CSS
+b) Permitem armazenar valores que podem ser reutilizados em todo o código
+c) Não têm impacto na performance do site
+d) São apenas uma forma de organizar o código HTML
+
+Qual é a função da tag <main> em HTML?
+a) Definir o cabeçalho da página
+b) Indicar o conteúdo principal da página
+c) Criar um rodapé para a página
+d) Agrupar todos os scripts JavaScript
+
+O que faz a propriedade justify-content: space-between em um container flexível?
+a) Centraliza todos os itens dentro do container
+b) Distribui os itens com espaço igual entre eles
+c) Coloca todos os itens no início do container
+d) Alinha os itens à direita do container
+
+Por que é importante usar alt em imagens?
+a) Para melhorar a estética da página
+b) Para garantir acessibilidade e descrever a imagem para leitores de tela
+c) Para aumentar a velocidade de carregamento da página
+d) Para evitar que a imagem seja exibida
+
+O que acontece se você não carregar um arquivo CSS que contém variáveis antes de usar essas variáveis em outro arquivo CSS?
+a) O navegador irá ignorar o arquivo CSS
+b) As variáveis não serão reconhecidas e não funcionarão
+c) O navegador irá gerar um erro
+d) As variáveis serão carregadas automaticamente
+
+Espero que essas perguntas ajudem a reforçar seu aprendizado! Se precisar de mais alguma coisa, é só avisar. 😊
+
+   RESPOSTAS:
+
+1. B) Permitem armazenar valores que podem ser reutilizados em todo o código
+2. B) Indicar o conteúdo principal da página
+3. B) Distribui os itens com espaço igual entre eles
+4. B) Para garantir acessibilidade e descrever a imagem para leitores de tela
+5. B) As variáveis não serão reconhecidas e não funcionarão
+
+	QUESTIONÁRIO 4 DA AULA 4-
+
+Claro! Aqui estão algumas perguntas de múltipla escolha para testar seu conhecimento sobre os conteúdos abordados na aula 4 da Imersão Front-end:
+O que é o CSS Grid Layout?a) Uma ferramenta para criar animações em CSSb) Uma técnica para organizar elementos em uma gradec) Um método para estilizar textosd) Um framework de JavaScript  
+Qual é a função do display: flex no CSS?a) Organizar elementos em colunasb) Criar um layout responsivoc) Alinhar itens em uma linha ou colunad) Definir a cor de fundo de um elemento  
+O que são media queries em CSS?a) Um método para adicionar efeitos de transiçãob) Uma técnica para aplicar estilos diferentes com base na largura da telac) Um tipo de animação em CSSd) Um comando para importar arquivos CSS  
+O que faz a função fetch no JavaScript?a) Cria um novo elemento HTMLb) Faz requisições para APIs e retorna dadosc) Altera o estilo de um elementod) Adiciona eventos a um elemento  
+Qual é a importância de usar toLowerCase() ao manipular strings em JavaScript?a) Para converter a string em um númerob) Para garantir que a comparação de strings não seja sensível a maiúsculas e minúsculasc) Para formatar a string para exibiçãod) Para remover espaços em branco da string
+
+Espero que essas perguntas ajudem a reforçar seu aprendizado! Se precisar de mais alguma coisa, é só avisar. 😊
+
+   RESPOSTAS:
+   
+1. B) Uma técnica para organizar elementos em uma grade
+2. B) Criar um layout responsivo
+3. B) Uma técnica para aplicar estilos diferentes com base na largura da tela
+4. B) Faz requisições para APIs e retorna dados
+5. B) Para garantir que a comparação de strings não seja sensível a maiúsculas e minúsculas

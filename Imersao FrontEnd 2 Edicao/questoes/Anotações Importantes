@@ -1,0 +1,12 @@
+ANOTAÇÕES DO PROJETO!
+
+COMO INSTALAR O PACOTE JSON:
+npm install -g json-serv
+
+COMO FAZER O PROJETO ESCUTAR O JSON:
+npx json-server --watch "/home/luisa/Documentos/Imersão FrontEnd - 2ª Edição/api-artists/artists.json" --port 3000 
+
+PACKAGE JSON DO PROJETO SSPOTIFY-REACT!
+
+COMO FAZER O PROJETO ESCUTAR O JSON:
+npx json-server --watch "/home/luisa/Documentos/spotify-react/src/api-artists/artists.json" --port 3000 
